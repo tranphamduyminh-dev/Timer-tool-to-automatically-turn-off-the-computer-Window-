@@ -20,6 +20,8 @@ Time values cannot be negative or zero.
 The scheduling time limit is 1440 minutes (equivalent to 24 hours).
 Utilize the Timer Tool for Automatic Computer Shutdown (Windows) to efficiently manage your computer shutdown schedule. Experience the convenience of this compact utility today! 🚀
 
+<h3 align="left">Support:</h3>
+<p><a href="https://tranphamduyminh-dev.github.io/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tranphamduyminh-dev" /></a></p><br><br>
 
 
 
