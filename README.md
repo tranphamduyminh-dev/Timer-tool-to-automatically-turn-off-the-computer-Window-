@@ -1,4 +1,4 @@
-# Timer-tool-to-automatically-turn-off-the-computer-Window
+# Timer tool to automatically turn off the computer Window
 Timer tool to automatically turn off the computer (Window) | AutoIt Tool 🕒
 
 Chào mừng bạn đến với ứng dụng Timer tool to automatically turn off the computer (Window) , một công cụ đơn giản được xây dựng bằng ngôn ngữ AutoIt nhằm hỗ trợ lên lịch tắt máy tính (Window).
