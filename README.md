@@ -1,5 +1,5 @@
 
-# Timer Tool for Automatic Computer Shutdown (Windows) | AutoIT
+# Timer Tool for Automatic Computer Shutdown (Windows)
 
 ![Logo](https://github.com/tranphamduyminh-dev/tranphamduyminh-dev.github.io/blob/main/logo_-removebg-preview.ico)
 
