@@ -1,22 +1,26 @@
-# Timer tool to automatically turn off the computer Window
-Timer tool to automatically turn off the computer (Window) | AutoIt Tool 🕒
+<h1>Timer Tool for Automatic Computer Shutdown (Windows) | AutoIt Utility 🕒</h1>
 
-Chào mừng bạn đến với ứng dụng Timer tool to automatically turn off the computer (Window) , một công cụ đơn giản được xây dựng bằng ngôn ngữ AutoIt nhằm hỗ trợ lên lịch tắt máy tính (Window).
+Welcome to the Timer Tool for Automatic Computer Shutdown (Windows), a streamlined utility crafted with AutoIt to facilitate scheduling computer shutdowns on the Windows platform.
 
-Tính Năng Chính:
+Key Features:
 
-Giao diện đơn giản và dễ sử dụng với các trường nhập liệu và nút chức năng.
-Tự động chuyển đổi thời gian từ đơn vị phút sang giây.
-Hỗ trợ lên lịch tắt máy tính với thời gian nhập vào.
-Kiểm tra và thông báo về giá trị không hợp lệ hoặc quá lớn.
-Thông báo thành công khi lên lịch tắt máy tính được kích hoạt.
-Hướng Dẫn Sử Dụng:
+Sleek and user-friendly interface featuring input fields and functional buttons.
+Automatic conversion of time from minutes to seconds.
+Support for scheduling computer shutdowns based on user-input time.
+Validation checks and notifications for invalid or excessively large values.
+Success notifications upon successful activation of the shutdown schedule.
+Usage Guidelines:
 
-Nhập thời gian mong muốn vào ô "Time (minutes)".
-Nhấn nút "OK" để lên lịch tắt máy tính theo thời gian đã nhập.
-Thoát ứng dụng bằng cách nhấn nút "Exit" khi bạn không muốn thực hiện lên lịch.
-Lưu Ý:
+Enter the desired time in the "Time (minutes)" field.
+Press the "OK" button to schedule a computer shutdown based on the entered time.
+Exit the application by clicking the "Exit" button if you choose not to proceed with the schedule.
+Notes:
 
-Giá trị thời gian không thể là số âm hoặc bằng 0.
-Giới hạn thời gian lên lịch là 1440 phút (tức là 24 giờ).
-Sử dụng Timer tool to automatically turn off the computer (Window) để quản lý thời gian tắt máy hiệu quả và thuận tiện. Hãy trải nghiệm và tận hưởng tiện ích của công cụ nhỏ gọn này!"
+Time values cannot be negative or zero.
+The scheduling time limit is 1440 minutes (equivalent to 24 hours).
+Utilize the Timer Tool for Automatic Computer Shutdown (Windows) to efficiently manage your computer shutdown schedule. Experience the convenience of this compact utility today! 🚀
+
+
+
+
+
