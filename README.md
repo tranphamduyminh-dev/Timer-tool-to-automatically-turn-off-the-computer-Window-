@@ -30,6 +30,8 @@ Chào mừng bạn đến với Tiện ích Đặt giờ Tự động Tắt Máy
 
 Sử dụng Tiện ích Đặt giờ Tự động Tắt Máy Tính (Windows) để quản lý lịch trình tắt máy tính một cách hiệu quả. Trải nghiệm sự thuận tiện của tiện ích nhỏ gọn này ngay hôm nay! 🚀
 
+## Demo
+![demo](https://i.imgur.com/awlwRhC.png)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://tranphamduyminh-dev.github.io/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tranphamduyminh-dev" /></a></p><br><br>
