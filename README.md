@@ -28,7 +28,7 @@ Chào mừng bạn đến với Tiện ích Đặt giờ Tự động Tắt Máy
 
 ## Sử Dụng
 
-Sử dụng Tiện ích Đặt giờ Tự động Tắt Máy Tính (Windows) để quản lý lịch trình tắt máy tính một cách hiệu quả. Trải nghiệm sự thuận tiện của tiện ích nhỏ gọn này ngay hôm nay! 🚀
+Sử dụng Timer Tool for Automatic Computer Shutdown (Windows) để quản lý lịch trình tắt máy tính một cách hiệu quả. Trải nghiệm sự thuận tiện của tiện ích nhỏ gọn này ngay hôm nay! 🚀
 
 ## Demo
 ![demo](https://i.imgur.com/awlwRhC.png)
