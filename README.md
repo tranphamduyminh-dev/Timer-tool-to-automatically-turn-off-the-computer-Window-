@@ -1,8 +1,6 @@
 
 # Timer Tool for Automatic Computer Shutdown (Windows)
 
-![Logo](https://github.com/tranphamduyminh-dev/tranphamduyminh-dev.github.io/blob/main/logo_-removebg-preview.ico)
-
 ## Mô Tả
 
 Chào mừng bạn đến với Tiện ích Đặt giờ Tự động Tắt Máy Tính (Windows), một tiện ích tinh gọn được tạo bằng AutoIt để hỗ trợ lập lịch tắt máy tính trên nền tảng Windows.
